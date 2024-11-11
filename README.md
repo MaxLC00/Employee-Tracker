@@ -23,6 +23,9 @@ Watch a demonstration of the application's functionality:
 
 [![Tutorial Thumbnail](./tutorial%20video/tutorial%20thumbnail.png)](./tutorial%20video/Tutorial%20Video.mp4)
 
+or watch here:
+<iframe src="https://drive.google.com/file/d/1_Me61_PnvjuOk6Ifso3o9w-aBZcRY0_t/preview" width="640" height="480"></iframe>
+
 ## Technologies Used
 - Node.js
 - Inquirer
