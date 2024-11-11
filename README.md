@@ -21,7 +21,7 @@ A command-line application built with Node.js, Inquirer, and PostgreSQL that all
 ## Demo and Installation
 Watch a demonstration of the application's functionality:
 
-[![Tutorial Thumbnail](./Tutorial%20Video/tutorial%20thumbnail.png)](./Tutorial%20Video/Tutorial%20video.mp4)
+[![Tutorial Thumbnail](./Tutorial%20Video/tutorial%20thumbnail.png)](./Tutorial%20Video/Tutorial%20Video.mp4)
 
 ## Technologies Used
 - Node.js
